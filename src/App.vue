@@ -1,6 +1,6 @@
 <template>
   <div id="main-app">
-    <header><Header ></Header></header>
+    <header><Header></Header></header>
     <RouterView style="min-height: 100vh;"></RouterView>
     <footer><Footer></Footer></footer>
   </div>
